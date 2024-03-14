@@ -9,7 +9,7 @@ I. [Linux related certificates](/Linux)
     >*(09-02-2024)*
 
 II. [Kubernetes related certificates](/Kubernetes)
- 1. **HPE - HJ7F2S Certificate - Kubernetes Administration**
+ 1. **HPE - HJ7F2S Certificate - Kubernetes Administration** [link](</Kubernetes/HJ7F2S Certificate - Kubernetes Administration - Michał Walter.pdf>)
     >*(26-02-2024)*
 
 III. [Storage related certificates](/Storage)
