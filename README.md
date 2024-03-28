@@ -7,6 +7,8 @@ I. [Linux related certificates](/Linux)
     >*(11-11-2023)*
  2. **HPE - H7091S Certificate - Enterprise Linux System Administration** [link](</Linux/H7091S Certificate - Enterprise Linux System Administration - Michał Walter.pdf>)
     >*(09-02-2024)*
+3. **RedHat - RH124 Badge - Red Hat System Administration I** [link](</Linux/RH124 Badge - Red Hat System Administration I - Michał Walter.pdf>)
+    >*(27-03-2024)*
 
 II. [Kubernetes related certificates](/Kubernetes)
  1. **HPE - HJ7F2S Certificate - Kubernetes Administration** [link](</Kubernetes/HJ7F2S Certificate - Kubernetes Administration - Michał Walter.pdf>)
