@@ -9,6 +9,8 @@ I. [Linux related certificates](/Linux)
     >*(09-02-2024)*
 3. **Red Hat - RH124 Certificate - Red Hat System Administration I** [link](</Linux/RH124 Certificate - Red Hat System Administration I - Michał Walter.pdf>)
     >*(27-03-2024)*
+4. **Red Hat - RH134 Certificate - Red Hat System Administration II** [link](</Linux/RH134 Certificate - Red Hat System Administration II - Michał Walter.pdf>)
+    >*(28-05-2024)*
 
 II. [Kubernetes related certificates](/Kubernetes)
  1. **HPE - HJ7F2S Certificate - Kubernetes Administration** [link](</Kubernetes/HJ7F2S Certificate - Kubernetes Administration - Michał Walter.pdf>)
