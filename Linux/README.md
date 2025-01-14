@@ -8,5 +8,5 @@
     >*(09-02-2024)*
 3. **Red Hat - RH124 Certificate - Red Hat System Administration I** [link](</Linux/RH124 Certificate - Red Hat System Administration I - Michał Walter.pdf>)
     >*(27-03-2024)*
-4. **Red Hat - RH134 Certificate - Red Hat System Administration II** [link](</Linux/RH134 Certificate - Red Hat System Administration II - Michał Walter.pdf>)
+4. **cRH134 Certificate - Red Hat System Administration II** [link](</Linux/RH134 Certificate - Red Hat System Administration II - Michał Walter.pdf>)
     >*(28-05-2024)*
