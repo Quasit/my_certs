@@ -17,6 +17,8 @@ II. [Kubernetes related certificates](/Kubernetes)
     >*(26-02-2024)*
  2. **Red Hat - DO180 Certificate - Red Hat OpenShift Administration I: Operating a Production Cluster** [link](</Kubernetes/DO180 Certificate - Red Hat OpenShift Administration I - Michał Walter.pdf>)
     >*(13-01-2025)*
+ 1. **Red Hat - DO280 Certificate - Red Hat OpenShift Administration II: Configuring a Production Cluster** [link](</Kubernetes/DO280 Certificate - Red Hat OpenShift Administration II - Michał Walter.pdf>)
+    >*(30-01-2025)*
 
 III. [Storage related certificates](/Storage)
  1. **HPE - H0LN3S Certificate - HPE Synergy Administration with HPE OneView** [link](</Storage/H0LN3S Certificate - HPE Synergy Administration with HPE OneView - Michał Walter.pdf>)
