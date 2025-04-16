@@ -1,4 +1,4 @@
-# My training and courses certificates repository
+# My certification repository
 
 ### EXAM CERTIFICATION:
 
