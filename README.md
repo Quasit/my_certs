@@ -21,6 +21,8 @@ II. [Kubernetes related certificates](/Kubernetes)
     >*(30-01-2025)*
 4. **Red Hat - DO288 Certificate - Red Hat OpenShift Developer II: Building and Deploying Cloudnative Applications** [link](</Kubernetes/DO288 Certificate - Red Hat OpenShift Developer II - Michał Walter.pdf>)
     >*(31-01-2025)*
+5. **Red Hat - EX280 Certificate - Red Hat Certified OpenShift Administrator** [link](</Kubernetes/EX280 Certificate - Red Hat Certified OpenShift Administrator.pdf>)
+    >*(14-02-2025)*
 
 III. [Storage related certificates](/Storage)
 1. **HPE - H0LN3S Certificate - HPE Synergy Administration with HPE OneView** [link](</Storage/H0LN3S Certificate - HPE Synergy Administration with HPE OneView - Michał Walter.pdf>)
