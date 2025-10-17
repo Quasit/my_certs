@@ -11,3 +11,5 @@ II. [Kubernetes related certificates](/training/Kubernetes)
     >*(30-01-2025)*
 4. **Red Hat - DO288 Certificate - Red Hat OpenShift Developer II: Building and Deploying Cloudnative Applications** [link](<./DO288 Certificate - Red Hat OpenShift Developer II - Michał Walter.pdf>)
     >*(31-01-2025)*
+5. **Google Cloud G-GSGKE Certificate - Getting Started with Google Kubernetes Engine** [link](<./G-GSGKE Certificate - Getting Started with GKE - Michał Walter.pdf>)
+    >*(16-10-2025)*
