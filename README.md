@@ -36,7 +36,7 @@ III. [Ansible related certificates](./training/Ansible)
 1. **HPE - H8Q13S Certificate - Asible** [link](<./training/Ansible/H8Q13S Certificate - Ansible - Michał Walter.pdf>)
     >*(05-11-2025)*
 
-V. [Storage related certificates](./training/Storage)
+VI. [Storage related certificates](./training/Storage)
 1. **HPE - H0LN3S Certificate - HPE Synergy Administration with HPE OneView** [link](<./training/Storage/H0LN3S Certificate - HPE Synergy Administration with HPE OneView - Michał Walter.pdf>)
     >*(24-01-2024)*
 2. **HPE - HM9Q5S Certificate - HPE Primera I - Management and Connectivity** [link](<./training/Storage/HM9Q5S Certificate - HPE Primera I - Management and Connectivity - Michał Walter.pdf>)
