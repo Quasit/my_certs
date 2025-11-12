@@ -33,7 +33,7 @@ II. [Kubernetes related certificates](./training/Kubernetes)
     >*(16-10-2025)*
 
 III. [Ansible related certificates](./training/Ansible)
-1. **HPE - H8Q13S Certificate - Asible** [link](<./training/Ansible/H8Q13S Certificate - Ansible - Michał Walter.pdf>)
+1. **HPE - H8Q13S Certificate - Ansible** [link](<./training/Ansible/H8Q13S Certificate - Ansible - Michał Walter.pdf>)
     >*(05-11-2025)*
 
 VI. [Storage related certificates](./training/Storage)
