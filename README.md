@@ -32,11 +32,17 @@ II. [Kubernetes related certificates](./training/Kubernetes)
 5. **Google Cloud G-GSGKE Certificate - Getting Started with Google Kubernetes Engine** [link](<./training/Kubernetes/G-GSGKE Certificate - Getting Started with GKE - Michał Walter.pdf>)
     >*(16-10-2025)*
 
-III. [Ansible related certificates](./training/Ansible)
+III. [AI related certificates](./training/AI)
+1. **Google Cloud GC-IAIMLGC Certificate - Introduction to AI and Machine Learning on Google Cloud** [link](<./training/AI/GC-IAIMLGC Certificate - Introduction to AI and Machine Learning on Google Cloud - Michał Walter.pdf>)
+    >*(13-11-2025)*
+2. **HPE - H54FSS Certificate - Basic AI Applications and Workloads Training** [link](<./training/AI/H54FSS Certificate - Basic AI Applications and Workloads Training - Michał Walter.pdf>)
+    >*(9-10-2026)*
+
+IV. [Ansible related certificates](./training/Ansible)
 1. **HPE - H8Q13S Certificate - Ansible** [link](<./training/Ansible/H8Q13S Certificate - Ansible - Michał Walter.pdf>)
     >*(05-11-2025)*
 
-VI. [Storage related certificates](./training/Storage)
+V. [Storage related certificates](./training/Storage)
 1. **HPE - H0LN3S Certificate - HPE Synergy Administration with HPE OneView** [link](<./training/Storage/H0LN3S Certificate - HPE Synergy Administration with HPE OneView - Michał Walter.pdf>)
     >*(24-01-2024)*
 2. **HPE - HM9Q5S Certificate - HPE Primera I - Management and Connectivity** [link](<./training/Storage/HM9Q5S Certificate - HPE Primera I - Management and Connectivity - Michał Walter.pdf>)
